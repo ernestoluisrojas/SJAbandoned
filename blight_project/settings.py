@@ -105,6 +105,5 @@ TEMPLATE_DIRS = [
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media') # Absolute path to the media directory
 
-DISQUS_API_KEY = 'LeLlakcK4BPFjp8JLW5iKqCY701jUxlYzSXTlqDsrVbTfu8QZbpKv4BwVqisFLMl'
 #DISQUS_WEBSITE_SHORTNAME = 'blight-sj'
 SITE_ID = 1
